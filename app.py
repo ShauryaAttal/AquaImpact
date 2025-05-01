@@ -67,7 +67,7 @@ ax.set_title("XGBoost Feature Importance (Manually Set)")
 st.pyplot(fig)
 
 # Future predictions
-st.header("3️⃣ Predict Future Water Stress")
+st.header("2️⃣ Predict Future Water Stress")
 st.write("Use the sliders below to simulate a country's environmental profile in 2030.")
 
 # Definitions for each metric
