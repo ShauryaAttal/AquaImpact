@@ -1,1 +1,1 @@
-#AquaImpact: Water Stress Predictor
+AquaImpact: Water Stress Predictor
